@@ -23,7 +23,7 @@ Open QGIS and you should already see the GeoServer Explorer plugin available in 
 Documentation
 -------------
 
-Thew plugin is documented `here <http://boundlessgeo.github.io/qgis-plugins-documentation/geoserver>`_.
+The plugin is documented `here <http://boundlessgeo.github.io/qgis-plugins-documentation/geoserver>`_.
 
 Getting Help
 ------------
